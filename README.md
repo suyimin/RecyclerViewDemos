@@ -3,11 +3,11 @@ Android RecyclerView Demo
 
 Blogs
 ============
-Android RecyclerView part 1 blog -->[RecyclerView使用详解（一）](http://frank-zhu.github.io/android/2015/01/16/android-recyclerview-part-1/)
+Android RecyclerView part 1 blog -->[RecyclerView使用详解（一）](https://blog.csdn.net/suyimin2010/article/details/79294971)
 
-Android RecyclerView part 2 blog -->[RecyclerView使用详解（二）](http://frank-zhu.github.io/android/2015/02/25/android-recyclerview-part-2/)
+Android RecyclerView part 2 blog -->[RecyclerView使用详解（二）](https://blog.csdn.net/suyimin2010/article/details/79294975)
 
-Android RecyclerView part 3 blog -->[RecyclerView使用详解（三）](http://frank-zhu.github.io/android/2015/02/26/android-recyclerview-part-3/)
+Android RecyclerView part 3 blog -->[RecyclerView使用详解（三）](https://blog.csdn.net/suyimin2010/article/details/79294979)
 
 Update
 ============
